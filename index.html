@@ -18,5 +18,108 @@
 
     <title>Trillo &mdash; Your all-in-one booking app</title>
   </head>
-  <body></body>
+  <body>
+    <div class="container">
+      <header class="header">
+        <img class="logo" src="assets/images/logo.png" alt="trillo logo" />
+
+        <form action="#" class="search">
+          <input
+            type="text"
+            class="search__input"
+            placeholder="Search hotels"
+          />
+          <button class="search__button">
+            <svg class="search__icon">
+              <use
+                xlink:href="assets/images/icons/sprite.svg#icon-magnifying-glass"
+              ></use>
+            </svg>
+          </button>
+        </form>
+
+        <nav class="user-nav">
+          <div class="user-nav__icon-box">
+            <svg class="user-nav__icon">
+              <use
+                xlink:href="assets/images/icons/sprite.svg#icon-bookmark"
+              ></use>
+            </svg>
+            <span class="user-nav__notification">7</span>
+          </div>
+          <div class="user-nav__icon-box">
+            <svg class="user-nav__icon">
+              <use xlink:href="assets/images/icons/sprite.svg#icon-chat"></use>
+            </svg>
+            <span class="user-nav__notification">14</span>
+          </div>
+          <div class="user-nav__user">
+            <img
+              src="assets/images/user/user.jpeg"
+              alt="User photo"
+              class="user-nav__user-photo"
+            />
+            <span class="user-nav__user-name">Grace C.A.</span>
+          </div>
+        </nav>
+      </header>
+
+      <div class="content">
+        <nav class="sidebar">
+          <ul class="sidebar-nav">
+            <li class="sidebar-nav__item sidebar-nav__item--active">
+              <a href="#" class="sidebar-nav__link">
+                <svg class="sidebar-nav__icon">
+                  <use
+                    xlink:href="assets/images/icons/sprite.svg#icon-home"
+                  ></use>
+                </svg>
+                <span>Hotel</span>
+              </a>
+            </li>
+
+            <li class="sidebar-nav__item">
+              <a href="#" class="sidebar-nav__link">
+                <svg class="sidebar-nav__icon">
+                  <use
+                    xlink:href="assets/images/icons/sprite.svg#icon-aircraft-take-off"
+                  ></use>
+                </svg>
+                <span>Flight</span>
+              </a>
+            </li>
+
+            <li class="sidebar-nav__item">
+              <a href="#" class="sidebar-nav__link">
+                <svg class="sidebar-nav__icon">
+                  <use
+                    xlink:href="assets/images/icons/sprite.svg#icon-key"
+                  ></use>
+                </svg>
+                <span>Car rental</span>
+              </a>
+            </li>
+
+            <li class="sidebar-nav__item">
+              <a href="#" class="sidebar-nav__link">
+                <svg class="sidebar-nav__icon">
+                  <use
+                    xlink:href="assets/images/icons/sprite.svg#icon-map"
+                  ></use>
+                </svg>
+                <span>Tours</span>
+              </a>
+            </li>
+          </ul>
+
+          <div class="legal">
+            &copy; 2024 by trillo. All rights reserved to Jonas Schmedtmann.
+            Developed by Grace Chen Abudi apart of advanced CSS and Sass course
+            on Udemy.
+          </div>
+        </nav>
+        <main class="hotel-view">Hotel view</main>
+      </div>
+    </div>
+  </body>
 </html>
