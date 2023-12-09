@@ -1,6 +1,6 @@
 # Trillo
 
-### Developed by Chen Abudi as part of **Advanced CSS & Sass** course in **_`Udemy`_**
+### Developed by Grace Chen Abudi as part of **Advanced CSS & Sass** course on **_`Udemy`_**
 
 ## 📢 Overview
 
@@ -22,6 +22,7 @@ A landing page showcasing an all in one booking app.
 - CSS3
 - HTML5
 - BEM Methodology
+- Flexbox Technique
 
 ## 🔧 Possible Improvements
 
