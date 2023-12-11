@@ -2,7 +2,7 @@
 
 ### Developed by Grace Chen Abudi as part of **Advanced CSS & Sass** course on **_`Udemy`_**
 
-## 📢 Overview
+## 📢 Overview:
 
 - Intro
 - Technologies & Techniques
@@ -11,11 +11,11 @@
 
 ---
 
-## 🔎 Intro
+## 🔎 Intro:
 
 A landing page showcasing an all in one booking app.
 
-## 🛠️ Technologies & Techniques
+## 🛠️ Technologies & Techniques:
 
 - Sass + SCSS
 - Sass Architecture
@@ -24,7 +24,7 @@ A landing page showcasing an all in one booking app.
 - BEM Methodology
 - Flexbox Technique
 
-## 🔧 Possible Improvements
+## 🔧 Possible Improvements:
 
 - [ ] Add functionality to the page and make it more dynamic
 
