@@ -22,7 +22,7 @@ A landing page showcasing an all in one booking app.
 - CSS3
 - HTML5
 - BEM Methodology
-- Flexbox Technique
+- Flexbox Techniques
 
 ## 🔧 Possible Improvements:
 
@@ -30,8 +30,8 @@ A landing page showcasing an all in one booking app.
 
 ---
 
-## ✨ Deployed Project
+## ✨ Deployed Project:
 
 ---
 
-### **_`Shoutout to Jonas Schmedtmann for this incredible design and techniques. Superb! All credits goes to Jonas Schmedtmann who Designed and Created this landing page.`_**
+### **_`Shoutout to Jonas Schmedtmann for this incredible design with the Advanced CSS + Sass techniques. Mahalo & Superb! All credits goes to Jonas Schmedtmann who Designed this landing page.`_**
