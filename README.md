@@ -1,6 +1,6 @@
 # Trillo ✈️🗺️
 
-### Developed by Grace Chen Abudi as part of **Advanced CSS & Sass** course on **_`Udemy`_**
+### Developed by Grace Chen Abudi 👩🏽‍💻
 
 ## 📢 Overview:
 
