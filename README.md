@@ -13,7 +13,7 @@
 
 ## 🔎 Intro:
 
-A landing page showcasing an all in one booking app.
+A landing page showcasing an all in one travel booking app.
 
 ## 🛠️ Technologies & Techniques:
 
@@ -24,6 +24,7 @@ A landing page showcasing an all in one booking app.
 - BEM Methodology
 - Flexbox Techniques
 - Browser Support with `@supports`
+- Responsive layout
 
 ## 🔧 Possible Improvements:
 
